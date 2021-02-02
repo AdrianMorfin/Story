@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Las espadas lasers que estaban en mi cuerto. 
+=======
+Pero tenian hambres de cerebros ternícolas.
+>>>>>>> alien-plot

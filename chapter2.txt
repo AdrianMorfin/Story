@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Habra choques de mundos en cuanto caiga el postal.
+=======
+Erase uno aliens que merodiaban en la galaxia con ganas de destruir planetas.
+>>>>>>> alien-plot
